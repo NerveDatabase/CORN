@@ -1,3 +1,3 @@
 # OpenDataset
-[![](https://img.shields.io/badge/Download-1%2Fday-brightgreen.svg)](http://nervedata.uk.mikecrm.com/ERn48Zg)
+[![](https://img.shields.io/badge/-Download-brightgreen.svg)](http://nervedata.uk.mikecrm.com/ERn48Zg)
 # Introduction
