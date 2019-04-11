@@ -5,9 +5,9 @@ A total of 1578 images of corneal subbasal epithelium from 108 normal and pathol
 
 # Corneal Nerve Fiber Tortuosity Database
 This is a local dataset which contains 410 CCM images.  These images were categorized into four groups based on fiber tortuosity level: two clinical authors independently labeled the tortuosity level according to a previously published protocol, and the consensus between them was then used as groundtruth. 
-{Level 1}: the fibers appear almost straight (56 images); 
-{Level 2}: the fibers appear moderately tortuous (216 images); 
-{Level 3}: the fibers are quite tortuous; the amplitude of the changes in the fiber direction is quite severe (108 images); 
-{Level 4}: the fibers appear very tortuous, presenting frequent changes in the fiber direction (30 images).
+- {Level 1}: the fibers appear almost straight (56 images); 
+- {Level 2}: the fibers appear moderately tortuous (216 images); 
+- {Level 3}: the fibers are quite tortuous; the amplitude of the changes in the fiber direction is quite severe (108 images); 
+- {Level 4}: the fibers appear very tortuous, presenting frequent changes in the fiber direction (30 images).
 
 [![](https://img.shields.io/badge/-Download-brightgreen.svg)](https://drive.google.com/file/d/1CeJdEGIB2TPe2wCauekh06Kd2mDN4C8e/view?usp=sharing)
