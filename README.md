@@ -1,4 +1,6 @@
-# Corneal Nerve Database (CORN)
+# Corneal Nerve Database (CorNN)
+The corneal nerve database (named as **CorNN**) is now open source. It includes two sub-dataset: 1) Corneal Nerve Fiber Tracing dataset; 2) Corneal Nerve Fiber Tortuosity dataset.
+
 ## Corneal Nerve Fiber Tracing Database
 A total of 1578 images of corneal subbasal epithelium from 108 normal and pathological subjects were acquired using a Heidelberg Retina Tomograph equipped with a Rostock Cornea Module (HRT-III) microscope (Heidelberg Engineering Inc.). The 108 subjects included: 30 healthy subjects; 18 subjects with diabetes; and 60 subjects with dry eye disease. The image resolution was 384x384 pixels, and the field of view was 400x400 um2.­ The nerves appear as bright curvilinear structures lying over a darker background. The reference groundtruth was segmented manually by an ophthalmologist, who traced the centerlines of all visible nerves using an in-house program written in Matlab (Mathworks R2017, Natwick).
 
